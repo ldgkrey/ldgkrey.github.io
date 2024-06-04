@@ -2,7 +2,7 @@
   "repositories": [
     {
       "name": "qcenabler",
-      "folder": "qcenabler",
+      "folder": "B_qcenabler",
       "url": "https://github.com/ldgkrey/qcenabler/releases/download/0.3.0/B_QCEnabler.zip",
       "home": "https://github.com/ldgkrey/qcenabler",
       "author": "Krey",
