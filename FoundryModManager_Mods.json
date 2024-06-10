@@ -3,7 +3,7 @@
     {
       "name": "qcenabler",
       "folder": "B_qcenabler",
-      "url": "https://github.com/ldgkrey/qcenabler/releases/download/0.3.0/B_QCEnabler.zip",
+      "url": "https://github.com/ldgkrey/qcenabler/releases/download/0.4/B_qcenabler.zip",
       "home": "https://github.com/ldgkrey/qcenabler",
       "author": "Krey",
       "description": "Activates an ingame debug log console.",
